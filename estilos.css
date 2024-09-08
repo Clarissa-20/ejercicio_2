@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.contenedor{
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 20px;
+    box-shadow: 0 0 20px black;
+}
+
+h1{
+    color: black;
+}
+
+input, button{
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#pista{
+    margin-top: 20px;
+    font-size: 18px;
+    color: white;
+}
